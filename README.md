@@ -1,7 +1,6 @@
 # BIRBAL.AI: Bharat Insights and Retrievals with Brilliant Analytics Linkages
 
-BIRBAL.AI is an intelligent analytics and insights platform tailored for India, driven by Generative AI. 
-This repository contains the Streamlit app Birbal, providing an interactive interface for data exploration and visualization.
+BIRBAL.AI is an intelligent analytics and insights platform tailored for India, driven by Generative AI. This repository contains the Streamlit app Birbal, providing an interactive interface for data exploration and visualization.
 
 ## Table of Contents
 
